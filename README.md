@@ -3,14 +3,11 @@
 A new Flutter project.
 
 ## Getting Started
+entre no diretório do projeto e execute o código "flutter run"
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/user-attachments/assets/8249a2c0-2b99-449f-abf0-895498e03182)
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/user-attachments/assets/d0c41f48-7fd2-4c7d-9679-4d0f360baf38)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://github.com/user-attachments/assets/5644668d-500b-4b23-a038-5055d02afa79)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
